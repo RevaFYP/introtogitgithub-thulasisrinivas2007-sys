@@ -1,0 +1,39 @@
+1. Create a menu-driven 2D Graphics Editor in C.
+
+2. Use a 60×60 character canvas represented by a 2D array.
+
+3. Initialize the canvas with blank characters .
+
+4. Define an Object structure containing object ID, object type, coordinates, and radius.
+
+5. Store up to 100 objects in an array.
+
+6. Implement a function to plot a single pixel on the canvas.
+
+7. Draw lines using Bresenham’s Line Algorithm.
+
+8. Draw rectangles using four lines.
+
+9. Draw triangles using three lines.
+
+10. Draw circles using the Midpoint Circle Algorithm.
+
+11. Create a drawObject() function to draw shapes based on their type.
+
+12. Implement an Add Object feature that assigns a unique ID, accepts user input, stores the object, and draws it on the canvas.
+
+13. Implement a Delete Object feature that searches by object ID, removes the object, and erases it from the canvas.
+
+14. Implement a Modify Object feature that finds an object by ID, removes the old drawing, updates the details, and redraws it.
+
+15. Implement a function to display the complete canvas.
+
+16. Display a menu with options: Add Object, Delete Object, Modify Object, Display Picture, and Exit.
+
+17. Use switch-case statements for menu handling.
+
+18. Use modular programming with separate functions for each operation.
+
+19. Use only standard C libraries such as stdio.h, stdlib.h, and math.h.
+
+20. Generate a complete, well-commented, and compilable C program.
